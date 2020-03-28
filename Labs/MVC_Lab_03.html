@@ -1,0 +1,84 @@
+
+<!DOCTYPE html>
+<html>
+        <head>
+                <link rel="stylesheet" type="text/css" href="quanstyle.css">
+                       
+                <title>ASPNET lab 3 CSS</title>
+                <style>
+                       body
+                       {
+                       padding: 96px;
+                       }
+                       
+                       
+                       p
+                       {
+                       text-indent: 10%;
+                       }
+                       
+                       h1{color: #ff00ff;
+                       background-color: #ffff00;
+                       }
+                       
+                       .MSSA
+                       {
+                       color: #abcd32;
+                       background-color: #23bbca;
+                       }
+                       
+                       #cad
+                       {
+                       color: #ff89ab;
+                       background-color: #ba23ff;
+                       }
+                       </style>
+        </head>
+        <body>
+                <h2>ASPNET lab 3 CSS</h2>
+                
+                <h1> my buttons</h1>
+                
+                <div class="buttonoff"
+                onmouseover="this.classname='buttonon';"
+                onmouseout="this.classname='buttonoff';
+                       this.innerhtml='click me';"
+                onmousedown="this.innerhtml='HELP!!';"
+                onmouseup="this.innerhtml='thanks';"
+                >click me</div>
+                
+                <form>
+                <input style="padding:8px; margin:8px;" name="name" id="name" type="text" value="enter your name"
+                onfocus="name.value=''; this.style.color: black;"/><br/>
+                
+                
+                       this is a text area: <br/>
+                               <textarea class="data" rows="4" cols="40" name="ta" id="ta"
+                               onfocus="ta.value='';">write your text here</textarea>
+                
+                <div class="buttonoff"> click me</div>
+                
+                <h1 style="font-variant: small caps;">thomas jefferson</h1>
+                <p style="font-family: serif; line-height: 2.5; text-align: justify;"><span style="text-decoration: underline;">We hold these truths to be self-evident</span>, that all men are created equal, that they are endowed, <span style="text-decoration: overline;">by their Creator,</span> with certain unalienable Rights, <span style="text-decoration: line-through;">that among these are Life</span>, <span style="text-decoration: blink;">Liberty, and the pursuit of Happiness</span></p>
+                <h1 style="font-variant: small caps;">abraham lincoln</h1>
+                <div style="font-family: sans-serif; text-align: right;"> <p style="font-style: normal;" class="MSSA">: score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal. 
+Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this. 
+But, in a larger sense, we can not dedicate -- we can not consecrate -- we can not hallow -- this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us -- that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion -- that we here highly resolve that these dead shall not have died in vain -- that this nation, under God, shall have a new birth of freedom -- and that government of the people, by the people, for the people, shall not perish from the earth.
+</div></p>
+                <h1>theodore rooselvelt</h1>
+                <p style="font-family: monospace;">In speaking to you,<span style="font-size: 6pt;"> men </span>of the greatest city of the West, men of the State which gave to the country Lincoln and Grant,<span style="font-size: 16pt;"> men who preminently and distinctly embody all that is most American in the American character</span>, I wish to preach, not the doctrine of ignoble ease, <span style="font-size: 24pt; color: red; background-color: #ccccc;">but the doctrine of the strenuous life,</span> the life of toil and effort, of labor and strife; to preach that highest form of success which comes, not to the man who desires mere easy peace, but to the man who does not shrink from danger, from hardship, or from bitter toil, and who out of these wins the splendid ultimate triumph.</p>
+                <h1>martin luther king</h1>
+        <p id="cad"style="font-family: cursive; text-align: center; text-indent: 0;">I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.
+Five score years ago, a great American, in whose symbolic shadow we stand today, signed the Emancipation Proclamation. This momentous decree came as a great beacon light of hope to millions of Negro slaves who had been seared in the flames of withering injustice. It came as a joyous daybreak to end the long night of their captivity.</p>
+        <p>I have a <span style="font-weight: 800;">dream </span>that one day every valley shall be exalted, every hill and mountain shall be made low, the rough places will be made plain, and the crooked places will be made straight, and the glory of the Lord shall be revealed, and all flesh shall see it together.</p>
+<p>This is our <span style="font-weight: 800;">hope.</span> This is the faith that I go back to the South with. With this faith we will be able to hew out of the mountain of despair a stone of hope. With this faith we will be able to transform the jangling discords of our nation into a beautiful symphony of brotherhood. With this faith we will be able to work together, to pray together, to struggle together, to go to jail together, to stand up for freedom together, knowing that we will be free one day.</P>
+<p>This will be the day when all of <span style="font-weight: 800;">God’s children</span> will be able to sing with a new meaning, “My country, ‘tis of thee, sweet land of liberty, of thee I sing. Land where my fathers died, land of the pilgrim’s pride, from every mountainside, let freedom ring.”</p>
+        
+        <h2>charles carter</h2>
+        
+        <p><span style="text-transform: capitalize;"> my immortal word</span></p>
+        <p><span style="text-transform: uppercase;"> my immortal word</span></p>
+        
+        
+        </body>
+</html>

@@ -1,0 +1,11 @@
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Labs\whiteboard03\bin\Debug\netcoreapp3.1\whiteboard03.exe
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Labs\whiteboard03\bin\Debug\netcoreapp3.1\whiteboard03.deps.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Labs\whiteboard03\bin\Debug\netcoreapp3.1\whiteboard03.runtimeconfig.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Labs\whiteboard03\bin\Debug\netcoreapp3.1\whiteboard03.runtimeconfig.dev.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Labs\whiteboard03\bin\Debug\netcoreapp3.1\whiteboard03.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Labs\whiteboard03\bin\Debug\netcoreapp3.1\whiteboard03.pdb
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Labs\whiteboard03\obj\Debug\netcoreapp3.1\whiteboard03.csprojAssemblyReference.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Labs\whiteboard03\obj\Debug\netcoreapp3.1\whiteboard03.AssemblyInfoInputs.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Labs\whiteboard03\obj\Debug\netcoreapp3.1\whiteboard03.AssemblyInfo.cs
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Labs\whiteboard03\obj\Debug\netcoreapp3.1\whiteboard03.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Labs\whiteboard03\obj\Debug\netcoreapp3.1\whiteboard03.pdb

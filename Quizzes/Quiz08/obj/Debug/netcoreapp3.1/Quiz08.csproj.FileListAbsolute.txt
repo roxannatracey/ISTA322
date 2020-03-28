@@ -1,0 +1,11 @@
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Quizzes\Quiz08\obj\Debug\netcoreapp3.1\Quiz08.csprojAssemblyReference.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Quizzes\Quiz08\obj\Debug\netcoreapp3.1\Quiz08.AssemblyInfoInputs.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Quizzes\Quiz08\obj\Debug\netcoreapp3.1\Quiz08.AssemblyInfo.cs
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Quizzes\Quiz08\bin\Debug\netcoreapp3.1\Quiz08.exe
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Quizzes\Quiz08\bin\Debug\netcoreapp3.1\Quiz08.deps.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Quizzes\Quiz08\bin\Debug\netcoreapp3.1\Quiz08.runtimeconfig.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Quizzes\Quiz08\bin\Debug\netcoreapp3.1\Quiz08.runtimeconfig.dev.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Quizzes\Quiz08\bin\Debug\netcoreapp3.1\Quiz08.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Quizzes\Quiz08\bin\Debug\netcoreapp3.1\Quiz08.pdb
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Quizzes\Quiz08\obj\Debug\netcoreapp3.1\Quiz08.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Quizzes\Quiz08\obj\Debug\netcoreapp3.1\Quiz08.pdb

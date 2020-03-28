@@ -1,0 +1,6 @@
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Labs\Chapter 15\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.exe.config
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Labs\Chapter 15\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.exe
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Labs\Chapter 15\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.pdb
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Labs\Chapter 15\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.csprojAssemblyReference.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Labs\Chapter 15\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.exe
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Labs\Chapter 15\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.pdb

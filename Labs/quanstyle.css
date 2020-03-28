@@ -1,0 +1,45 @@
+/* Author: Roxanna Barahona 
+Name quanstyle.css 
+Date: March 4, 2020 
+*/ 
+
+body
+{
+
+                background-color: #ddddff;
+                color: #242498;
+                border: 24px #ffoooo solid;
+                margin: 48px;
+                padding: 36px;
+                
+}
+
+.mssa
+{
+        border: 2px inset #444444;
+}
+
+#cad
+{
+        padding: 12px;
+}
+
+.buttonoff
+{
+        border: red 3px outset;
+        background-color: #000000;
+        color: #bfff00;
+        padding: 4px;
+        width: 96px;
+        text-align: center;
+}
+
+.buttonon
+{
+        border: red 3px inset;
+        background-color: #333333;
+        color: #ffffff;
+        padding: 4px;
+        width: 96px;
+        text-align: center;
+}

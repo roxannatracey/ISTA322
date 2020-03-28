@@ -1,0 +1,9 @@
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Labs\Chapter 17\BinaryTreeTest - Complete\bin\Debug\BinaryTreeTest.exe.config
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Labs\Chapter 17\BinaryTreeTest - Complete\bin\Debug\BinaryTreeTest.exe
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Labs\Chapter 17\BinaryTreeTest - Complete\bin\Debug\BinaryTreeTest.pdb
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Labs\Chapter 17\BinaryTreeTest - Complete\bin\Debug\BinaryTree.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Labs\Chapter 17\BinaryTreeTest - Complete\bin\Debug\BinaryTree.pdb
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Labs\Chapter 17\BinaryTreeTest - Complete\obj\Debug\BinaryTreeTest.csprojAssemblyReference.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Labs\Chapter 17\BinaryTreeTest - Complete\obj\Debug\BinaryTreeTest.csproj.CopyComplete
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Labs\Chapter 17\BinaryTreeTest - Complete\obj\Debug\BinaryTreeTest.exe
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Labs\Chapter 17\BinaryTreeTest - Complete\obj\Debug\BinaryTreeTest.pdb

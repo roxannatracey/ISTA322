@@ -1,0 +1,3 @@
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Exercises\Exercise_9A\obj\Debug\netcoreapp3.1\Exercise_9A.vbprojAssemblyReference.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Exercises\Exercise_9A\obj\Debug\netcoreapp3.1\Exercise_9A.AssemblyInfoInputs.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA322C\Exercises\Exercise_9A\obj\Debug\netcoreapp3.1\Exercise_9A.AssemblyInfo.vb
